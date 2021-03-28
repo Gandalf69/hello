@@ -1,4 +1,4 @@
-# hello
+# Przykładowa aplikacja VUE
 
 ## Project setup
 ```
