@@ -1,4 +1,4 @@
-# Przykładowa aplikacja VUE
+# Zmien sie ok?
 
 ### Compiles and hot-reloads for development
 ```
